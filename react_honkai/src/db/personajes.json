@@ -1,0 +1,352 @@
+[
+  {
+    "nombre": "Trazacaminos - Destrucción",
+    "tipoDeCombate": "Físico",
+    "via": "Destrucción",
+    "faccion": "Expreso Astral",
+    "vozIngles": "Caleb Yen / Rachael Chau",
+    "vozChina": "Qin Qiege (秦且歌) / Chen Tingting (秦且歌)",
+    "vozJaponesa": "Junya Enoki (榎木淳弥) / Yui Ishikawa (石川由依)",
+    "vozCoreana": "Kim Myeong-jun (김명준) / Kim Ha-ru (김하루)"
+  },
+  {
+    "nombre": "Siete de Marzo",
+    "tipoDeCombate": "Hielo",
+    "via": "Conservación",
+    "faccion": "Expreso Astral",
+    "vozIngles": "Skyler Davenport",
+    "vozChina": "Nuò Yǎ (諾亞)",
+    "vozJaponesa": "Yui Ogura (小倉唯)",
+    "vozCoreana": "Jung Hye-Won (정혜원)"
+  },
+  {
+    "nombre": "Dan Heng",
+    "tipoDeCombate": "Viento",
+    "via": "Cacería",
+    "faccion": "Expreso Astral",
+    "vozIngles": "Nicholas Leung",
+    "vozChina": "Yú Dòng (魚凍)",
+    "vozJaponesa": "Kento Itō (伊東健人)",
+    "vozCoreana": "Kim Hye-sung (김혜성)"
+  },
+  {
+    "nombre": "Himeko",
+    "tipoDeCombate": "Fuego",
+    "via": "Erudición",
+    "faccion": "Expreso Astral",
+    "vozIngles": "Cia Court",
+    "vozChina": "Lin Su (林簌)",
+    "vozJaponesa": "Rie Tanaka (田中理恵)",
+    "vozCoreana": "Kim Bo-na (김보나)"
+  },
+  {
+    "nombre": "Welt",
+    "tipoDeCombate": "Imaginario",
+    "via": "Nihilidad",
+    "faccion": "Expreso Astral",
+    "vozIngles": "Corey Landis",
+    "vozChina": "Bloomberg (彭博)",
+    "vozJaponesa": "Yoshimasa Hosoya (細谷佳正)",
+    "vozCoreana": "Hansin (한신)"
+  },
+  {
+    "nombre": "Arlan",
+    "tipoDeCombate": "Rayo",
+    "via": "Destrucción",
+    "faccion": "Estación Espacial Herta",
+    "vozIngles": "Dani Chambers",
+    "vozChina": "Dian Tao (陶典)",
+    "vozJaponesa": "Ryoko Shiraishi (白石涼子)",
+    "vozCoreana": "Kim Yul (김율)"
+  },
+  {
+    "nombre": "Asta",
+    "tipoDeCombate": "Fuego",
+    "via": "Armonía",
+    "faccion": "Estación Espacial Herta",
+    "vozIngles": "Felecia Angelle",
+    "vozChina": "Gui Niang (龜娘)",
+    "vozJaponesa": "Chinatsu Akasaki (赤﨑千夏)",
+    "vozCoreana": "Kim Hyeon-ji (김현지)"
+  },
+  {
+    "nombre": "Herta",
+    "tipoDeCombate": "Hielo",
+    "via": "Erudición",
+    "faccion": "Estación Espacial Herta",
+    "vozIngles": "PJ Mattson",
+    "vozChina": "Hou Xiafei (侯小菲)",
+    "vozJaponesa": "Haruka Yamazaki (山崎 はるか)",
+    "vozCoreana": "Kim Seo-young (김서영)"
+  },
+  {
+    "nombre": "Bronya",
+    "tipoDeCombate": "Viento",
+    "via": "Armonía",
+    "faccion": "Guardia Crinargenta",
+    "vozIngles": "Madeline Reiter",
+    "vozChina": "Xie Ying (謝瑩)",
+    "vozJaponesa": "Kana Asumi (阿澄佳奈)",
+    "vozCoreana": "Lee Bohee (이보희)"
+  },
+  {
+    "nombre": "Seele",
+    "tipoDeCombate": "Cuántico",
+    "via": "Cacería",
+    "faccion": "Llamarada",
+    "vozIngles": "Molly Zhang",
+    "vozChina": "Yajing Tang (唐雅菁)",
+    "vozJaponesa": "Nakahara Mai (中原麻衣)",
+    "vozCoreana": "Song Ha-rim (송하림)"
+  },
+  {
+    "nombre": "Serval",
+    "tipoDeCombate": "Rayo",
+    "via": "Erudición",
+    "faccion": "Belobog",
+    "vozIngles": "Natalie Van Sistine",
+    "vozChina": "Mu Xueting (穆雪婷)",
+    "vozJaponesa": "Aimi (愛美)",
+    "vozCoreana": "Minah (민아)"
+  },
+  {
+    "nombre": "Gepard",
+    "tipoDeCombate": "Hielo",
+    "via": "Conservación",
+    "faccion": "Guardia Crinargenta",
+    "vozIngles": "Bryson Baugus",
+    "vozChina": "Ma Yang (馬洋)",
+    "vozJaponesa": "Furukawa Makoto (古川慎)",
+    "vozCoreana": "Min Seung-woo (민승우)"
+  },
+  {
+    "nombre": "Natasha",
+    "tipoDeCombate": "Físico",
+    "via": "Abundancia",
+    "faccion": "Belobog",
+    "vozIngles": "Elizabeth Maxwell",
+    "vozChina": "Qin Ziyi (秦紫翼)",
+    "vozJaponesa": "Uchiyama Yumi (内山夕実)",
+    "vozCoreana": "Kang Eun-ae (강은애)"
+  },
+  {
+    "nombre": "Pela",
+    "tipoDeCombate": "Hielo",
+    "via": "Nihilidad",
+    "faccion": "Guardias Cinargenta",
+    "vozIngles": "Xanthe Huynh",
+    "vozChina": "Yan Ning (宴寧)",
+    "vozJaponesa": "Morohoshi Sumire (諸星すみれ)",
+    "vozCoreana": "Lee Da-eun (이다은)"
+  },
+  {
+    "nombre": "Clara",
+    "tipoDeCombate": "Físico",
+    "via": "Destrucción",
+    "faccion": "Belobog",
+    "vozIngles": "Emily Sun",
+    "vozChina": "Zisu Jiuyue (紫蘇九月)",
+    "vozJaponesa": "Hidaka Rina (日高里菜)",
+    "vozCoreana": "Kim Yea-lim (김예림)"
+  },
+  {
+    "nombre": "Sampo",
+    "tipoDeCombate": "Viento",
+    "via": "Nihilidad",
+    "faccion": "Belobog",
+    "vozIngles": "Roger Rose",
+    "vozChina": "Liu Shengbo (劉聖博)",
+    "vozJaponesa": "Hirakawa Daisuke (平川大輔)",
+    "vozCoreana": "Jeong Jae-heon (정재헌)"
+  },
+  {
+    "nombre": "Hook",
+    "tipoDeCombate": "Fuego",
+    "via": "Destrucción",
+    "faccion": "Belobog",
+    "vozIngles": "Felecia Angelle",
+    "vozChina": "Wang Xiaotong (王曉彤)",
+    "vozJaponesa": "Tokui Sora (徳井 青空)",
+    "vozCoreana": "Lee Jae-hyun (이재현)"
+  },
+  {
+    "nombre": "Trazacaminos - Conservación",
+    "tipoDeCombate": "Fuego",
+    "via": "Conservación",
+    "faccion": "Expreso Astral",
+    "vozIngles": "Caleb Yen / Rachael Chau",
+    "vozChina": "Qin Qiege (秦且歌) / Chen Tingting (秦且歌)",
+    "vozJaponesa": "Junya Enoki (榎木淳弥) / Yui Ishikawa (石川由依)",
+    "vozCoreana": "Kim Myeong-jun (김명준) / Kim Ha-ru (김하루)"
+  },
+  {
+    "nombre": "Qingque",
+    "tipoDeCombate": "Cuántico",
+    "via": "Erudición",
+    "faccion": "Xianzhou Luofu",
+    "vozIngles": "Bryn Appril",
+    "vozChina": "Liu Shishi (劉十四)",
+    "vozJaponesa": "Date Arisa (伊達朱里紗)",
+    "vozCoreana": "Seo Da-hye (서다혜)"
+  },
+  {
+    "nombre": "Tingyun",
+    "tipoDeCombate": "Rayo",
+    "via": "Armonía",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Laci Morgan",
+    "vozChina": "Jiang Li (蔣麗)",
+    "vozJaponesa": "Takada Yuki (高田憂希)",
+    "vozCoreana": "Lee Myeong-ho (이명호)"
+  },
+  {
+    "nombre": "Jing Yuan",
+    "tipoDeCombate": "Rayo",
+    "via": "Erudición",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Alejandro Saab",
+    "vozChina": "Sun Ye (孫曄)",
+    "vozJaponesa": "Ono Daisuke (小野大輔)",
+    "vozCoreana": "Ryu Seung-gon (류승곤)"
+  },
+  {
+    "nombre": "Sushang",
+    "tipoDeCombate": "Físico",
+    "via": "Cacería",
+    "faccion": "Xianzhou Luofu",
+    "vozIngles": "Anjali Kunapanen",
+    "vozChina": "Chen Tingting (陳婷婷)",
+    "vozJaponesa": "Fukuen Misato (福圓美里)",
+    "vozCoreana": "Park Si-yoon (박시윤)"
+  },
+  {
+    "nombre": "Yanqing",
+    "tipoDeCombate": "Hielo",
+    "via": "Cacería",
+    "faccion": "Xianzhou Luofu",
+    "vozIngles": "Amber May",
+    "vozChina": "Miao Jiang (喵醬)",
+    "vozJaponesa": "Inoue Marina (井上 麻里奈)",
+    "vozCoreana": "Yi Sae-ah (이새아)"
+  },
+  {
+    "nombre": "Bailu",
+    "tipoDeCombate": "Rayo",
+    "via": "Abundancia",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Su Ling Chan",
+    "vozChina": "Duoduo poi (多多poi)",
+    "vozJaponesa": "Kato Emiri (加藤 英美里)",
+    "vozCoreana": "Jo Hyun-jung (조현정)"
+  },
+  {
+    "nombre": "Silver Wolf",
+    "tipoDeCombate": "Cuántico",
+    "via": "Nihilidad",
+    "faccion": "Cazadores de Estelaron",
+    "vozIngles": "Melissa Fahn",
+    "vozChina": "Hanser",
+    "vozJaponesa": "阿澄佳奈 (Kana Asumi)",
+    "vozCoreana": "장미 (Jang Mi)"
+  },
+  {
+    "nombre": "Luocha",
+    "tipoDeCombate": "Imaginario",
+    "via": "Abundancia",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Craig Lee Thomas",
+    "vozChina": "赵路 (Lu Zhao)",
+    "vozJaponesa": "石田彰 (Akira Ishida)",
+    "vozCoreana": "신용우 (Shin Yong-woo)"
+  },
+  {
+    "nombre": "Yukong",
+    "tipoDeCombate": "Imaginario",
+    "via": "Armonía",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Dawn M. Bennett",
+    "vozChina": "钟可 (Zhong Ke)",
+    "vozJaponesa": "冬馬由美 (Yumi Tōma)",
+    "vozCoreana": "전숙경 (Jeon Sook-kyung)"
+  },
+  {
+    "nombre": "Kafka",
+    "tipoDeCombate": "Rayo",
+    "via": "Nihilidad",
+    "faccion": "Cazadores de Estelaron",
+    "vozIngles": "Cheryl Texiera",
+    "vozChina": "徐慧 (Xu Hui)",
+    "vozJaponesa": "伊藤 静 (Ito Shizuka)",
+    "vozCoreana": "사문영 (Sa Moon-young)"
+  },
+  {
+    "nombre": "Luka",
+    "tipoDeCombate": "Físico",
+    "via": "Nihilidad",
+    "faccion": "Belobog",
+    "vozIngles": "Howard Wang",
+    "vozChina": "萧翟 (Xiao Zhai)",
+    "vozJaponesa": "梶原岳人 (Kajiwara Gakuto)",
+    "vozCoreana": "이주승 (Lee Joo-seung)"
+  },
+  {
+    "nombre": "Fu Xuan",
+    "tipoDeCombate": "Cuántico",
+    "via": "Conservación",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Sarah Wiedenheft",
+    "vozChina": "花玲 (Hualing)",
+    "vozJaponesa": "伊藤美来 (Miku Itō)",
+    "vozCoreana": "이지현 (Lee Ji-hyeon)"
+  },
+  {
+    "nombre": "Dan Heng - Imbibitor Lunae",
+    "tipoDeCombate": "Imaginario",
+    "via": "Destrucción",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Nicholas Leung",
+    "vozChina": "Yú Dòng (魚凍)",
+    "vozJaponesa": "Kento Itō (伊東健人)",
+    "vozCoreana": "Kim Hye-sung (김혜성)"
+  },
+  {
+    "nombre": "Lynx",
+    "tipoDeCombate": "Cuántico",
+    "via": "Abundancia",
+    "faccion": "Belobog",
+    "vozIngles": "Risa Mei",
+    "vozChina": "米糊",
+    "vozJaponesa": "照井春佳 (Haruka Terui)",
+    "vozCoreana": "이은조 (Lee Eun-jo)"
+  },
+  {
+    "nombre": "Jingliu",
+    "tipoDeCombate": "Hielo",
+    "via": "Destrucción",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "AmaLee",
+    "vozChina": "杜冥鸦 (Du Mingya)",
+    "vozJaponesa": "桑岛法子 (Houko Kuwashima)",
+    "vozCoreana": "박이서 (Park Yi-seo)"
+  },
+  {
+    "nombre": "Topaz y Conti",
+    "tipoDeCombate": "Fuego",
+    "via": "Cacería",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Sam Slade",
+    "vozChina": "陆敏悦 (Lu Minyue)",
+    "vozJaponesa": "南条爱乃 (Yoshino Nanjō)",
+    "vozCoreana": "방시우 (Bang Si-u)"
+  },
+  {
+    "nombre": "Guinaifen",
+    "tipoDeCombate": "Fuego",
+    "via": "Nihilidad",
+    "faccion": "El Luofu de Xianzhou",
+    "vozIngles": "Morgan Lauré",
+    "vozChina": "小敢 (Xiao Gan)",
+    "vozJaponesa": "直田姫奈 (Suguta Hina)",
+    "vozCoreana": "김수영 (Kim Su-yeong)"
+  }
+]
